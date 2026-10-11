@@ -1,0 +1,2 @@
+# Analise-de-Sentimento-e-Classificacao-de-Efeitos-baseado-em-YuGiOh
+Aplicação em Python com interface gráfica (Tkinter) que utiliza Inteligência Artificial para analisar descrições em texto de cartas de Yu-Gi-Oh! e classificar seus efeitos em tempo real (como destruição de monstros, compras de cartas e invocações especiais). Projeto desenvolvido para fins educacionais e de estudo em Processamento deLinguagemNatural
