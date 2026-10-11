@@ -39,8 +39,7 @@ Todos os direitos autorais, marcas registradas, nomes de cartas, termos do jogo,
 ### 📊 Créditos da Base de Dados (Dataset CSV)
 A base de dados de cartas utilizada neste projeto foi obtida a partir do dataset público disponibilizado pela comunidade no Kaggle:
 - **Autor / Mantenedor**: [hammadus](https://www.kaggle.com/hammadus)
-- **Dataset Oficial**: [Yu-Gi-Oh! Full Card Database & Index (August 2025)] (https://www.kaggle.com/datasets/hammadus/yugioh-full-card-database-index](https://www.kaggle.com/datasets/hammadus/yugioh-full-card-database-index-august-1st-2025?resource=download)
-
+- **Dataset Oficial**: [Yu-Gi-Oh! Full Card Database & Index (August 2025)] https://www.kaggle.com/datasets/hammadus/yugioh-full-card-database-index-august-1st-2025
 ### 🧠 Créditos do Modelo de Inteligência Artificial
 A classificação zero-shot é viabilizada pelo modelo pré-treinado de última geração fornecido pela equipe do **Hugging Face** e desenvolvido pela **Meta AI (Facebook)**:
 - **Modelo**: `facebook/bart-large-mnli`
